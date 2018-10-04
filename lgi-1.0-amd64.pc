@@ -1,0 +1,12 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib/x86_64-linux-gnu
+includedir=${prefix}/include
+
+Name: lgi
+Description: LGI shared library
+Version: 1.0
+Requires: cairo
+Libs: -L${libdir} -llgi-1.0 -lGL -lX11 -lXext -lXcursor
+Cflags: -I${includedir}/lgi
+
