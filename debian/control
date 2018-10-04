@@ -2,8 +2,8 @@ Source: lgi
 Section: x11
 Priority: optional
 Maintainer: LliureX Team <lliurex@gva.es>
-Build-Depends: cdbs, debhelper (>= 7), libx11-dev, pkg-config, libcairo2-dev, libgtk-3-dev, libxcursor-dev, mesa-common-dev, libgl1-mesa-dev, cmake (>= 2.6.0), doxygen
-Standards-Version: 3.9.3
+Build-Depends: cdbs, debhelper (>= 10), libx11-dev, pkg-config, libcairo2-dev, libgtk-3-dev, libxcursor-dev, mesa-common-dev, libgl1-mesa-dev, cmake (>= 2.6.0), doxygen
+Standards-Version: 4.1.2
 
  
 Package: liblgi-1.0
