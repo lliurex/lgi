@@ -10,3 +10,7 @@ add_custom_target(doc COMMAND doxygen)
 install(DIRECTORY "include/lgi-1.0"
     DESTINATION "include/"
 )
+
+install(FILES "LliurexLGIConfig.cmake"
+    DESTINATION "lib/cmake/LliurexLGI"
+)
