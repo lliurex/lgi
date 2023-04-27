@@ -8,7 +8,6 @@ Standards-Version: 4.1.2
  
 Package: liblgi-1.0
 Architecture: any
-Pre-Depends: multiarch-support
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: lgi core files
  LliureX Graphic Interface shared libraries
