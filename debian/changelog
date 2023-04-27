@@ -1,4 +1,4 @@
-lgi (23.0.0.0) focal; urgency=medium
+lgi (1.6.0.0) focal; urgency=medium
 
   * Focal release
   * Improved CMake and packaging
