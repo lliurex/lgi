@@ -1,3 +1,3 @@
-include/lgi-1.0/*	/usr/include/lgi-1.0/
-pc/*		/
-
+usr/include/lgi-1.0 /usr/include/
+usr/lib/cmake/LliurexLGI /usr/lib/cmake/
+usr/lib/lib*.so    /usr/lib/

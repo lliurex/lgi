@@ -1,3 +1,10 @@
+lgi (23.0.0.0) focal; urgency=medium
+
+  * Focal release
+  * Improved CMake and packaging
+
+ -- Enrique Medina Gremaldos <quiqueiii@gmail.com>  Thu, 27 Apr 2023 11:23:20 +0200
+
 lgi (1.5.11) bionic; urgency=medium
 
   * Initial release for bionic
